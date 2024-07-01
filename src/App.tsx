@@ -1,5 +1,5 @@
-import MyComponent from "@/components/MyComponent";
+import EventPractice from "@/components/EventPractice";
 
 export default function App() {
-  return <MyComponent />;
+  return <EventPractice />;
 }
